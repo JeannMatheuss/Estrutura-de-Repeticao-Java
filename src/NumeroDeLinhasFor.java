@@ -48,6 +48,5 @@ public class NumeroDeLinhasFor {
             System.out.println();
         }
 
-
     }
 }
